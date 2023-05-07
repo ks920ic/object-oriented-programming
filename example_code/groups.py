@@ -1,4 +1,4 @@
-"""A module implementing the basic functionality of mathematical groups.
+``"""A module implementing the basic functionality of mathematical groups.
 
 This version of the module uses inheritance.
 """
